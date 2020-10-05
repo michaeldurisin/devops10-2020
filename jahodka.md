@@ -1,5 +1,5 @@
 ###### Novy file jahodka 
-* prvy riadok 
+* prvy riadokk 
 * druhy riadok 
 * I just love __devops__.
 * stvrty riadok
